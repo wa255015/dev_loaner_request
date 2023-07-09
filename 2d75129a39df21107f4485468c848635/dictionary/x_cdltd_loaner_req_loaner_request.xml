@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_cdltd_loaner_req_loaner_request" sizeclass="2" type="collection">
+    <element extends="task" label="Loaner Request" max_length="40" name="x_cdltd_loaner_req_loaner_request" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="santa_clara" label="Depot" max_length="40" name="depot" type="string">
             <choice>
                 <element inactive_on_update="false" label="New York" sequence="0" value="ny"/>
@@ -20,6 +20,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Location To Be Used" max_length="40" name="location_to_be_used" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
         <element attributes="encode_utf8=false" label="Requested For" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Start Date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
     </element>
