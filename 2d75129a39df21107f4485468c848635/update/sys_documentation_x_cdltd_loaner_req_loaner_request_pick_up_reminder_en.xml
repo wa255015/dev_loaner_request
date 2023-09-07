@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="pick_up_reminder" label="Pick Up Reminder" language="en" table="x_cdltd_loaner_req_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pick_up_reminder</element>
+            <help/>
+            <hint/>
+            <label>Pick Up Reminder</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <plural>Pick Up Reminders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-07 09:17:32</sys_created_on>
+            <sys_id>f0c3080b41c5f5107f44109be728f7cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pick Up Reminder</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2d75129a39df21107f4485468c848635</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">2d75129a39df21107f4485468c848635</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_req_loaner_request_pick_up_reminder_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-07 09:17:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
