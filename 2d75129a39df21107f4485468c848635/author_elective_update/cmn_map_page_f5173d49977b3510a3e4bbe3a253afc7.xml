@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_map_page">
+    <cmn_map_page action="DELETE">
+        <center_address>Yogododji, Africa</center_address>
+        <center_latitude/>
+        <center_longitude/>
+        <controls_size>large</controls_size>
+        <coordinates_retrieved_on/>
+        <disable_map_controls/>
+        <disable_nav_bar>false</disable_nav_bar>
+        <filter/>
+        <initial_zoom>2</initial_zoom>
+        <name>x_cdltd_loaner_req.Requested for locatio</name>
+        <overview>false</overview>
+        <refresh_on_zoom>false</refresh_on_zoom>
+        <roles/>
+        <script/>
+        <show_device_location>true</show_device_location>
+        <suffix>Requested for location</suffix>
+        <sys_class_name>cmn_map_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 05:26:13</sys_created_on>
+        <sys_id>f5173d49977b3510a3e4bbe3a253afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.Requested for locatio</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2d75129a39df21107f4485468c848635</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2d75129a39df21107f4485468c848635</sys_scope>
+        <sys_update_name>cmn_map_page_f5173d49977b3510a3e4bbe3a253afc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 05:26:13</sys_updated_on>
+        <type>terrain</type>
+        <type_selection>buttons</type_selection>
+        <use_advanced_configuration>false</use_advanced_configuration>
+    </cmn_map_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">2d75129a39df21107f4485468c848635</application>
+        <file_path/>
+        <instance_id>2f0561efdb61a91cdc3fc597059619b5</instance_id>
+        <instance_name>dev166001</instance_name>
+        <name>cmn_map_page_f5173d49977b3510a3e4bbe3a253afc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_map_page"><cmn_map_page action="INSERT_OR_UPDATE"><center_address>Yogododji, Africa</center_address><center_latitude/><center_longitude/><controls_size>large</controls_size><coordinates_retrieved_on/><disable_map_controls/><disable_nav_bar>false</disable_nav_bar><filter/><initial_zoom>2</initial_zoom><name>x_cdltd_loaner_req.Requested for locatio</name><overview>false</overview><refresh_on_zoom>false</refresh_on_zoom><roles/><script/><show_device_location>true</show_device_location><suffix>Requested for location</suffix><sys_class_name>cmn_map_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-16 05:26:13</sys_created_on><sys_id>f5173d49977b3510a3e4bbe3a253afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req.Requested for locatio</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2d75129a39df21107f4485468c848635</sys_package><sys_policy/><sys_scope display_value="Loaner Request">2d75129a39df21107f4485468c848635</sys_scope><sys_update_name>cmn_map_page_f5173d49977b3510a3e4bbe3a253afc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-16 05:26:13</sys_updated_on><type>terrain</type><type_selection>buttons</type_selection><use_advanced_configuration>false</use_advanced_configuration></cmn_map_page></record_update>]]></payload>
+        <payload_hash>-893212046</payload_hash>
+        <record_name>x_cdltd_loaner_req.Requested for locatio</record_name>
+        <reverted_from/>
+        <source>e6d7437b97553110a3e4bbe3a253afe8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 05:26:13</sys_created_on>
+        <sys_id>7d173d49977b3510a3e4bbe3a253afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d10bc04a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 05:26:13</sys_updated_on>
+        <type>Map Page</type>
+        <update_guid>b5173d49a97b35101f062beb8f7352ca</update_guid>
+        <update_guid_history>b5173d49a97b35101f062beb8f7352ca:-893212046</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_loaner_req.Requested for locatio">38bfb18197bb3510a3e4bbe3a253affc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 06:03:50</sys_created_on>
+        <sys_db_object display_value="" name="cmn_map_page">cmn_map_page</sys_db_object>
+        <sys_id>706e1d817e254b41ad2eb570bc740d31</sys_id>
+        <sys_metadata>f5173d49977b3510a3e4bbe3a253afc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.Requested for locatio</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">2d75129a39df21107f4485468c848635</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">2d75129a39df21107f4485468c848635</sys_scope>
+        <sys_scope_delete display_value="">465320acfceb426aada0d2d67c3f29c1</sys_scope_delete>
+        <sys_update_name>cmn_map_page_f5173d49977b3510a3e4bbe3a253afc7</sys_update_name>
+        <sys_update_version display_value="cmn_map_page_f5173d49977b3510a3e4bbe3a253afc7">7d173d49977b3510a3e4bbe3a253afca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 06:03:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
